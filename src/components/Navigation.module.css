@@ -1,0 +1,21 @@
+.siteNavigation > ul {
+    display: flex;
+    gap: 16px;
+}
+
+.siteNavigation li {
+    list-style: none;
+}
+
+.siteNavigation a {
+    padding: 10px 16px;
+}
+
+.currentMenu {
+    color: #f794f2;
+    border-bottom: 1px solid;
+}
+
+.currentMenu:hover {
+    color: #f794f2;
+}

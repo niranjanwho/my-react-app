@@ -1,0 +1,12 @@
+.pageContent {
+    display: flex;
+}
+
+.page {
+    min-height: 600px;
+}
+
+.flexCenter {
+    flex: 1;
+    place-items: center;
+}

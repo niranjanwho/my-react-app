@@ -1,0 +1,9 @@
+.branding {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.branding > h1 {
+    font-size: 12px;
+}

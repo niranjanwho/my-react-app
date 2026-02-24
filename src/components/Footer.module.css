@@ -1,0 +1,11 @@
+.siteFooter {
+    background: #000;
+    color: #ddd;
+    padding: 20px 36px;
+}
+
+.copyrights {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
